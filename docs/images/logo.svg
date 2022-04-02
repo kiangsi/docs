@@ -7,7 +7,7 @@
         <rect id="driv-2" x="0" y="0" width="500" height="500" rx="40"></rect>
         <mask stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" id="mask">
                 <rect fill="#FFFFFF" x="0" y="0" width="500" height="500" rx="40"></rect>
-                <rect fill="#000000" x="350.690519" y="72" width="87.3241895" height="361" rx="14"></rect>
+                <rect fill="#000000" x="350.690519" y="72" width="65" height="361" rx="14"></rect>
                 <polyline stroke="#000000" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="97.2703191 264.142329 228.666372 264.142329 262.779123 236.234599 337.636903 236.234599"></polyline>
                 <polyline stroke="#000000" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="125.17805 390.238155 202.93959 390.238155 270.749077 302.913965 332.235406 302.913965"></polyline>
                 <polyline stroke="#000000" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="129.679297 123.98314  206.105591 123.98314 262.274789 177.097853 332.235406 177.097853"></polyline>
