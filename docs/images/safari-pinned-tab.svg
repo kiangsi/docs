@@ -1,17 +1,23 @@
-<svg width="700pt" height="700pt" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd">
-        <g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" id="mask">
-            <rect fill="black" x="0" y="0" width="500" height="500" rx="40"></rect>
-            <rect fill="white" x="350.690519" y="72" width="65" height="361" rx="14"></rect>
-            <polyline stroke="white" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="97.2703191 264.142329 228.666372 264.142329 262.779123 236.234599 337.636903 236.234599"></polyline>
-            <polyline stroke="white" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="125.17805 390.238155 202.93959 390.238155 270.749077 302.913965 332.235406 302.913965"></polyline>
-            <polyline stroke="white" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="129.679297 123.98314  206.105591 123.98314 262.274789 177.097853 332.235406 177.097853"></polyline>
-            <rect stroke="white" stroke-width="10" fill="black" x="318.281541" y="161.124688" width="64.8179551" height="32.4089776" rx="12"></rect>
-            <rect stroke="white" stroke-width="10" fill="black" x="318.281541" y="219.640898" width="64.8179551" height="32.4089776" rx="12"></rect>
-            <rect stroke="white" stroke-width="10" fill="black" x="318.281541" y="286.259352" width="64.8179551" height="32.4089776" rx="12"></rect>
-            <rect stroke="white" stroke-width="12" fill="black" x="105.612805" y="370.728027" width="38.2669856" height="38.2669856" rx="25"></rect>
-            <rect stroke="white" stroke-width="12" fill="black" x="109.04845" y="105.007481" width="38.2669856" height="38.2669856" rx="25"></rect>
-            <rect stroke="white" stroke-width="12" fill="black" x="65.2301898" y="245.721971" width="38.2669856" height="38.2669856" rx="25"></rect>
-        </g>
+<svg width="700pt" height="700pt" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="driv-2" x="0" y="0" width="500" height="500" rx="40"></rect>
+        <mask stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" id="mask">
+                <rect fill="black" x="0" y="0" width="500" height="500" rx="40"></rect>
+                <rect fill="white" x="350.690519" y="72" width="65" height="361" rx="14"></rect>
+                <polyline stroke="white" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="97.2703191 264.142329 228.666372 264.142329 262.779123 236.234599 337.636903 236.234599"></polyline>
+                <polyline stroke="white" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="125.17805 390.238155 202.93959 390.238155 270.749077 302.913965 332.235406 302.913965"></polyline>
+                <polyline stroke="white" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="129.679297 123.98314  206.105591 123.98314 262.274789 177.097853 332.235406 177.097853"></polyline>
+                <rect stroke="white" stroke-width="10" fill="black" x="318.281541" y="161.124688" width="64.8179551" height="32.4089776" rx="12"></rect>
+                <rect stroke="white" stroke-width="10" fill="black" x="318.281541" y="219.640898" width="64.8179551" height="32.4089776" rx="12"></rect>
+                <rect stroke="white" stroke-width="10" fill="black" x="318.281541" y="286.259352" width="64.8179551" height="32.4089776" rx="12"></rect>
+                <rect stroke="white" stroke-width="12" fill="black" x="105.612805" y="370.728027" width="38.2669856" height="38.2669856" rx="25"></rect>
+                <rect stroke="white" stroke-width="12" fill="black" x="109.04845" y="105.007481" width="38.2669856" height="38.2669856" rx="25"></rect>
+                <rect stroke="white" stroke-width="12" fill="black" x="65.2301898" y="245.721971" width="38.2669856" height="38.2669856" rx="25"></rect>
+        </mask>
+    </defs>
+    <g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" mask="url(#mask)">
+      <g>
+          <use fill="#000000" xlink:href="#driv-2"></use>
+      </g>
     </g>
 </svg>
