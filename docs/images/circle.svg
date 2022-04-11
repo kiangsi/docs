@@ -6,7 +6,7 @@
         </linearGradient>
         <rect id="driv-2" x="0" y="0" width="500" height="500" rx="40"></rect>
         <mask stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" id="mask">
-                <rect fill="white" x="0" y="0" width="500" height="500" rx="40"></rect>
+                <circle cx="250" cy="250" r="250" fill="white"></circle>
                 <rect fill="black" x="350" y="75" width="65" height="350" rx="14"></rect>
                 <polyline stroke="black" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="97 264 228 264 262 236 337 236"></polyline>
                 <polyline stroke="black" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="125 390 202 390 270 302 332 302"></polyline>
@@ -21,7 +21,8 @@
     </defs>
     <g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" mask="url(#mask)">
       <g>
-          <use fill="black" xlink:href="#driv-2"></use>
+          <use fill="#FC5531" xlink:href="#driv-2"></use>
+          <use fill-opacity="0.1" fill="url(#driv-1)" xlink:href="#driv-2"></use>
       </g>
     </g>
 </svg>
