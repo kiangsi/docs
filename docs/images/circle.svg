@@ -17,9 +17,9 @@
                 <rect stroke="black" stroke-width="16" fill="white" x="318" y="220" width="64" height="32" rx="12"></rect>
                 <rect stroke="black" stroke-width="16" fill="white" x="318" y="286" width="64" height="32" rx="12"></rect>
 
-                <rect stroke="black" stroke-width="16" fill="white" x="96" y="360" width="58" height="58" rx="29"></rect>
-                <rect stroke="black" stroke-width="16" fill="white" x="99" y="95" width="58" height="58" rx="29"></rect>
-                <rect stroke="black" stroke-width="16" fill="white" x="55" y="235" width="58" height="58" rx="29"></rect>
+                <rect stroke="black" stroke-width="16" fill="white" x="96" y="369" width="40" height="40" rx="29"></rect>
+                <rect stroke="black" stroke-width="16" fill="white" x="99" y="104" width="40" height="40" rx="29"></rect>
+                <rect stroke="black" stroke-width="16" fill="white" x="55" y="244" width="40" height="40" rx="29"></rect>
         </mask>
     </defs>
     <g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" mask="url(#mask)">
