@@ -8,15 +8,18 @@
         <mask stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" id="mask">
                 <circle cx="250" cy="250" r="250" fill="white"></circle>
                 <rect fill="black" x="350" y="75" width="65" height="350" rx="14"></rect>
-                <polyline stroke="black" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="97 264 228 264 262 236 337 236"></polyline>
-                <polyline stroke="black" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="125 390 202 390 270 302 332 302"></polyline>
-                <polyline stroke="black" stroke-width="30" stroke-linecap="square" stroke-linejoin="round" points="129 123  206 123 262 177 332 177"></polyline>
-                <rect stroke="black" stroke-width="10" fill="white" x="318" y="161" width="64" height="32" rx="12"></rect>
-                <rect stroke="black" stroke-width="10" fill="white" x="318" y="219" width="64" height="32" rx="12"></rect>
-                <rect stroke="black" stroke-width="10" fill="white" x="318" y="286" width="64" height="32" rx="12"></rect>
-                <rect stroke="black" stroke-width="12" fill="white" x="106" y="370" width="38" height="38" rx="25"></rect>
-                <rect stroke="black" stroke-width="12" fill="white" x="109" y="105" width="38" height="38" rx="25"></rect>
-                <rect stroke="black" stroke-width="12" fill="white" x="65" y="245" width="38" height="38" rx="25"></rect>
+
+                <polyline stroke="black" stroke-width="40" stroke-linecap="square" stroke-linejoin="round" points="97 264 228 264 262 236 337 236"></polyline>
+                <polyline stroke="black" stroke-width="40" stroke-linecap="square" stroke-linejoin="round" points="125 390 202 390 270 302 332 302"></polyline>
+                <polyline stroke="black" stroke-width="40" stroke-linecap="square" stroke-linejoin="round" points="129 123  206 123 262 170 332 170"></polyline>
+
+                <rect stroke="black" stroke-width="16" fill="white" x="318" y="154" width="64" height="32" rx="12"></rect>
+                <rect stroke="black" stroke-width="16" fill="white" x="318" y="220" width="64" height="32" rx="12"></rect>
+                <rect stroke="black" stroke-width="16" fill="white" x="318" y="286" width="64" height="32" rx="12"></rect>
+
+                <rect stroke="black" stroke-width="16" fill="white" x="96" y="360" width="58" height="58" rx="29"></rect>
+                <rect stroke="black" stroke-width="16" fill="white" x="99" y="95" width="58" height="58" rx="29"></rect>
+                <rect stroke="black" stroke-width="16" fill="white" x="55" y="235" width="58" height="58" rx="29"></rect>
         </mask>
     </defs>
     <g stroke="none" stroke-width="0" fill="none" fill-rule="evenodd" mask="url(#mask)">
